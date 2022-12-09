@@ -1,0 +1,15 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/mixins/breakpoints";
+@import "../node_modules/bootstrap/scss/variables";
+
+
+// $grid-breakpoints: (
+//   xs: 0,
+//   sm: 300px,
+//   md: 768px,
+//   lg: 1080px,
+  
+// );
+@include media-breakpoint-down(sm){
+  
+}
